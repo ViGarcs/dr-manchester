@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 TELEGRAM_TOKEN = "seu_token_aqui" (com as aspas)
 
-⚠️ Nunca compartilhe seu token publicamente!
+> ⚠️ Nunca compartilhe seu token publicamente!
 
 ### 4. Execute o bot:
 
