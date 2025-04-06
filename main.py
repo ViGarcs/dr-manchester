@@ -3,14 +3,6 @@
 # pip install sentence-transformers
 # pip install python-dotenv
 
-# ===== INSTALACAO DAS DEPENDENCIAS =====
-import subprocess
-
-subprocess.run("pip install accelerate", shell=True)
-subprocess.run("pip install -U sentence-transformers", shell=True)
-subprocess.run("pip install pyTelegramBotAPI", shell=True)
-subprocess.run("pip install python-dotenv", shell=True)
-
 # ===== BIBLIOTECA =====
 # -- BIBLIOTECAS EXTERNAS --
 import telebot                      # Interacao com o bot do Telegram
