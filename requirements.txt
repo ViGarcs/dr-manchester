@@ -1,3 +1,0 @@
-pyTelegramBotAPI
-sentence-transformers
-python-dotenv
