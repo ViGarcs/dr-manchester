@@ -23,7 +23,7 @@ Este é um chatbot desenvolvido em Python que auxilia na classificação de sint
 
 ## Instalação
 
-> Antes de começar, você precisa ter **Python 3.8+**, **MySQL** e **pip** instalados no seu sistema.
+> Antes de começar, você precisa ter **Python 3.8+** ou **Python 3.11-** (as versões 3.12+ do python ainda não possuem o suporte necessario para algumas bibliotecas do projeto), **MySQL** e **pip** instalados no seu sistema.
 
 ### 1. Clone o repositório:
 
