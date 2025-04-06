@@ -32,13 +32,23 @@ git clone https://github.com/ViGarcs/dr-manchester.git
 cd dr-manchester
 ```
 
-### 2. Instale as dependências:
+### 2. Instale a biblioteca accelerate:
+
+> Essa biblioteca deve ser instalada antes das demais para evitar conflito!
 
 ```bash
-pip install -r requirements.txt
+pip install accelerate
 ```
 
-### 3. Configure seu token do telegram:
+### 3. Instale as demais dependências:
+
+```bash
+pip install pyTelegramBotAPI
+pip install python-dotenv
+pip install -U sentence-transformers
+```
+
+### 4. Configure seu token do telegram:
 
 1. Vá até o BotFather no Telegram e crie seu próprio bot;
 2. Copie o token fornecido
@@ -48,7 +58,7 @@ TELEGRAM_TOKEN = "seu_token_aqui" (com as aspas)
 
 > ⚠️ Nunca compartilhe seu token publicamente!
 
-### 4. Execute o bot:
+### 5. Execute o bot:
 
 python main.py
 
