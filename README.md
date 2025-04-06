@@ -32,6 +32,12 @@ git clone https://github.com/ViGarcs/dr-manchester.git
 cd dr-manchester
 ```
 
+### 2. Instale as dependências:
+
+```bash
+pip install -r requirements.txt
+```
+
 ### 3. Configure seu token do telegram:
 
 1. Vá até o BotFather no Telegram e crie seu próprio bot;
