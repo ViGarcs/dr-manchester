@@ -1,4 +1,0 @@
--r requirements_base.txt
-pyTelegramBotAPI
-python-dotenv
-sentence-transformers
