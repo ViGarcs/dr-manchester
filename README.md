@@ -1,6 +1,8 @@
 # 🤖 Dr. Manchester - Chatbot do Protocolo de Manchester
 Este é um chatbot desenvolvido em Python que auxilia na classificação de sintomas com base no **Protocolo de Manchester**. Com base em um banco de dados clínico e técnicas de NLP, ele recebe os sintomas relatados por usuários via Telegram, analisa os sintomas descritos e sugere uma classificação de prioridade, auxiliando no processo de triagem.
 
+> Para mais informações sobre o projeto e seu funcionamento, leia o Relatório Técnico de Projeto Aplicado anexado juntamente aos demais arquivos.
+
 ---
 
 ## Funcionalidades
