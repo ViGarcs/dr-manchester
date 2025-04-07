@@ -63,7 +63,7 @@ def Filtro_Mensagens_Usuario(mensagem, docs_path):
                 sint_correspondente = casos_especificos[i][2]
                 classificacao = casos_especificos[i][3]
         
-        if maior_similaridade < 0.80:
+        if maior_similaridade < 0.65:
             sintomas_PM.append(sintoma)
             classificacoes_PM.append("Azul")
         
